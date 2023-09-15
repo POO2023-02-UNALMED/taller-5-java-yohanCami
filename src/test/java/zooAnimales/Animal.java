@@ -51,7 +51,7 @@ public class Animal {
 			
 		}
 		
-		String salida = "Mi nombre es " + nombre + ", tengo una edad de " + edad + " habito en " + habitat + "y mi genero es " + genero;
+		String salida = "Mi nombre es " + nombre + ", tengo una edad de " + edad + ", habito en " + habitat + " y mi genero es " + genero;
 		
 		return salida;
 		
